@@ -1,8 +1,13 @@
 # Starlight
 
+###### A Programming Language for Games: performance, data-oriented, and so on.
+
 <img src="https://github.com/utilForever/Starlight/blob/master/Logo.png" align="center" />
 
-A Programming Language for Games: performance, data-oriented, and so on.
+
+Starlight is a high-level programming language developed by Chris Ohk, Geon Son, and Woojin Lim.
+It is still in development and as of yet is unavailable to the general public.
+We developed it for making games, but in fact it’s a general purpose programming language that could be used for any task.
 
 [![License](https://img.shields.io/badge/Licence-MIT-blue.svg)](https://github.com/utilForever/CubbyFlow/blob/master/LICENSE)
 
